@@ -3,7 +3,10 @@
     "displayName": "srcery (VS Code port)",
     "description": "A port of the \"srcery\" colorscheme for VS Code of https://github.com/roosta/vim-srcery",
     "version": "0.0.1",
-    "publisher": "Ethan",
+		"publisher": "Ethan Trithon",
+		"repository": {
+			"url": "https://github.com/GodlikeBlock/srcery-vscode"
+		},
     "engines": {
         "vscode": "^1.23.0"
     },
