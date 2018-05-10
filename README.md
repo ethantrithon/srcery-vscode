@@ -6,15 +6,15 @@ Some language examples:
 
 * Java
 
-	![Java example](https://github.com/GodlikeBlock/srcery-vscode/tree/master/images/javaex.PNG)
+	![Java example](./images/javaex.png)
 * Javascript
 
-	![Javascript example](https://github.com/GodlikeBlock/srcery-vscode/tree/master/images/jsex.PNG)
+	![Javascript example](./images/jsex.png)
 * HTML
 
-	![HTML Example](https://github.com/GodlikeBlock/srcery-vscode/tree/master/images/htmlex.PNG)
+	![HTML Example](./images/htmlex.png)
 * CSS
 
-	![CSS example](https://github.com/GodlikeBlock/srcery-vscode/tree/master/images/cssex.PNG)
+	![CSS example](./images/cssex.png)
 
 License: MIT
