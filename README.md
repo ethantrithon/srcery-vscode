@@ -6,15 +6,15 @@ Some language examples:
 
 * Java
 
-	![Java example](images/javaex.png)
+	![Java example](javaex.PNG)
 * Javascript
 
-	![Javascript example](images/jsex.png)
+	![Javascript example](jsex.png)
 * HTML
 
-	![HTML Example](images/htmlex.png)
+	![HTML Example](htmlex.png)
 * CSS
 
-	![CSS example](images/cssex.png)
+	![CSS example](cssex.png)
 
 License: MIT
