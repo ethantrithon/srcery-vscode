@@ -79,6 +79,7 @@
 				"storage.type.class.js",
 				"storage.type.extends.js",
 				"keyword.other.new.cs",
+				"keyword.operator.logical.python",
 				"keyword.other.substitution"
 			],
 			"settings": {
