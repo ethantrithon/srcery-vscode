@@ -9,12 +9,12 @@ Some language examples:
 	![Java example](javaex.PNG)
 * Javascript
 
-	![Javascript example](jsex.png)
+	![Javascript example](jsex.PNG)
 * HTML
 
-	![HTML Example](htmlex.png)
+	![HTML Example](htmlex.PNG)
 * CSS
 
-	![CSS example](cssex.png)
+	![CSS example](cssex.PNG)
 
 License: MIT
